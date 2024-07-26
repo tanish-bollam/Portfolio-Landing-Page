@@ -2,4 +2,4 @@
 
 ## Preview
 
-[Resume Preview](https://tanish-bollam.github.io/Portfolio-Landing-Page/)
+Click this link to go to my portfolio website --> [Resume Preview](https://tanish-bollam.github.io/Portfolio-Landing-Page/)
