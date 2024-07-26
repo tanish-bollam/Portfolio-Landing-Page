@@ -2,4 +2,4 @@
 
 ## Preview
 
-[![Resume Preview](https://tanish-bollam.github.io/Portfolio-Landing-Page/)
+[Resume Preview](https://tanish-bollam.github.io/Portfolio-Landing-Page/)
